@@ -63,10 +63,10 @@ Le niveau augmente toutes les **10 lignes** effacées. La vitesse de chute augme
 
 ## 🛠️ Architecture
 
-Le projet tient en **un seul fichier** `tetris.html` structuré en trois parties :
+Le projet tient en **un seul fichier** `index.html` structuré en trois parties :
 
 ```
-tetris.html
+index.html
 ├── <style>     — CSS avec variables, responsive, animations
 ├── <body>      — Structure HTML (canvas board, panel, contrôles tactiles)
 └── <script>    — Logique de jeu en JS vanilla
