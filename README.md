@@ -23,24 +23,6 @@ Un Tetris moderne, responsive et sans dépendances — un seul fichier HTML.
 - **Contrôles tactiles** — boutons dédiés sur mobile, tap sur la grille pour tourner
 - **Aucune dépendance** — zéro framework, zéro librairie externe
 
----
-
-## 🚀 Lancement
-
-Aucune installation requise. Ouvre simplement le fichier dans ton navigateur :
-
-```bash
-# Option 1 — double-clic sur le fichier
-tetris.html
-
-# Option 2 — via un serveur local (recommandé)
-npx serve .
-# ou
-python -m http.server 8000
-```
-
----
-
 ## 🕹️ Contrôles
 
 ### Clavier
